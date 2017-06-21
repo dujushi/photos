@@ -1,0 +1,27 @@
+[
+  {
+    "category": "动物",
+    "folder": "animals",
+    "version": "1"
+  },
+  {
+    "category": "海底世界",
+    "folder": "under-the-sea",
+    "version": "1"
+  },
+  {
+    "category": "花",
+    "folder": "flowers",
+    "version": "1"
+  },
+  {
+    "category": "水果",
+    "folder": "fruits",
+    "version": "1"
+  },
+  {
+    "category": "乐器",
+    "folder": "musical-instruments",
+    "version": "1"
+  }
+]
